@@ -2,4 +2,4 @@
 
 echo "Starting the console app ..."
 
-call %HOME%\*.exe
+call %HOME%\run.bat
